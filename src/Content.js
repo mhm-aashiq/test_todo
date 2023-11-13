@@ -15,7 +15,7 @@ const Content = ({items,setItems,handleDelete,handleCheck}) => {
    handleCheck = {handleCheck}
    handleDelete = {handleDelete}
    />
-    ) : <h2 className='text-primary text-center'>Your List is Empty...</h2>}
+    ) : <h2 className='text-primary text-center'>Your List is Empty... Better add something</h2>}
     </div>
   )
 }
