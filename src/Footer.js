@@ -26,7 +26,7 @@ import { Link } from 'react-router-dom'
 const Footer = ({length}) =>  {
   const year = new Date();
   const FB = 'https://m.facebook.com/p/Asupaha-100069508187552/';
-  const Insta = 'https://www.instagram.com/asupaha/';
+  const Insta = 'https://www.instagram.com/im_vxmpirx/?next=%2F&hl=en';
   const TW = 'https://twitter.com/asupaha?lang=en';
   const GH = 'https://github.com/mhm-aashiq';
   const photo = require('./image/m2.jpg')
